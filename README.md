@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://portfolio-page-abdulloh.netlify.app" target="_blank">Mukhammadsodiq</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+### Hi there, I'm <a href="https://mukhammadsodiqportfolio.netlify.app/" target="_blank">Mukhammadsodiq</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ### How to reach me: <a href="muhammadsodiqkoziyev1@gmail.com">muhammadsodiqkoziyev1@gmail.com</a>
 
